@@ -1,0 +1,3 @@
+C:/Users/Catalin/CLionProjects/phoneagenda/cmake-build-debug/CMakeFiles/phoneagenda.dir
+C:/Users/Catalin/CLionProjects/phoneagenda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Catalin/CLionProjects/phoneagenda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
